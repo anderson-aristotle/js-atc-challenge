@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
--   [JavaScript Objects Stack Challenge](https://github.com/ga-wdi-boston/js-objects-stack-challenge)
+-   [JavaScript Objects Stack Challenge](https://git.generalassemb.ly/ga-wdi-boston/js-objects-stack-challenge)
 
 ## Instructions
 
@@ -17,9 +17,9 @@
 Starter code is available in [`lib/challenge.js`](lib/challenge.js). A pull
 request is not required, but it is necessary if you want a code review.
 
-You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
+You may wish to refer to [FAQs](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki)
 related to [forking,
-cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone).
+cloning](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 ## Requirements
 
@@ -62,9 +62,9 @@ you've met these requirements.
 
 Developers should run these often!
 
--   `grunt nag` or just `grunt`: runs code quality analysis tools on your code
+-   `grunt nag`: runs code quality analysis tools on your code
     and complains.
--   `grunt reformat`: reformats all your code in a standard style.
+-   `grunt make-standard`: reformats all your code in a standard style.
 -   `grunt test`: runs any automated tests; may depend on `grunt build`.
 
 ## [License](LICENSE)
