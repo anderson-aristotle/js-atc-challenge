@@ -64,8 +64,9 @@ Developers should run these often!
 
 -   `grunt nag`: runs code quality analysis tools on your code
     and complains.
--   `grunt make-standard`: reformats all your code in a standard style.
 -   `grunt test`: runs any automated tests; may depend on `grunt build`.
+-   `grunt`: runs both `nag` and then `test`
+-   `grunt make-standard`: reformats all your code in the standard style.
 
 ## [License](LICENSE)
 
